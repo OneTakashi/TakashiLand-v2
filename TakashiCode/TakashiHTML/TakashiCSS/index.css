@@ -1,0 +1,61 @@
+nav {background-color: rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    max-width: 900vh;
+    border : 2vh;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    font-size: 15px;
+    font-weight: 600;
+    font-family: roboto, sans-serif;
+}
+
+.Gray {
+    color: rgb(68, 68, 68) !important;
+
+}
+
+.Black {
+    color: rgb(0, 0, 0);
+
+}
+
+#Main-title {
+    font-weight: 800;
+    color: rgba(255, 0, 149, 0.425);
+
+}
+
+h1 {background-color: rgb(0, 0, 0);
+color: rgb(255, 255, 255); 
+border: 2vh;
+}
+
+footer {
+    color: black;
+    background-color: rgb(17, 105, 182);
+
+}
+
+div {width: 100%;
+max-width: 900vh;
+background-color: rgb(129, 129, 129);
+border: 2vh;
+border-style: double;
+border-color: rgb(0, 0, 0);
+font-size: 15px;
+font-weight: 600;
+font-family: roboto, sans-serif;
+}
+
+.box {
+    width: 200px;
+    background-color: rgb(238, 39, 39);
+    border: 15px solid rgb(14, 214, 91);
+    padding: 15px 15px 15px 15px;
+    height: 200px;
+    margin: 15px 15px 15px 15px;
+    box-shadow: black;
+
+}
+
+
